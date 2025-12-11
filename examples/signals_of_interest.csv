@@ -1,0 +1,4 @@
+name,min_hz,max_hz,confidence,description
+adsb,1.089GHz,1.091GHz,0.9,ADS-B 1090ES replies
+lora_us915,902MHz,915MHz,0.7,LoRa US915 uplink/downlink
+ais,161.975MHz,162.025MHz,0.85,AIS VHF maritime channels
